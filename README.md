@@ -9,11 +9,10 @@ I made this website using github pages and I hope you discover more about me her
 I am 12 years old, a minecraft, python and beginning html coder, who is 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Wanting to learn
+## trying new things!
+### Having fun!
 
 - Bulleted
 - List
