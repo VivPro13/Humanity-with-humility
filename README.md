@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## This is my website about myself!
 
-You can use the [editor on GitHub](https://github.com/VivPro13/VivPro/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a content creator and this is [my channel](https://www.youtube.com/channel/UCjSWQNTCXkA4y34Z57q4vFg) where I post fun videos for you guys!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made this website using github pages and I hope you discover more about me here!.
 
-### Markdown
+### General information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am 12 years old, a minecraft, python and beginning html coder, who is 
 
 ```markdown
 Syntax highlighted code block
